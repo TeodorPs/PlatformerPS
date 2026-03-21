@@ -8,6 +8,7 @@ TagManager:
   - Platform
   - Wall
   - HangPoint
+  - Enemie
   layers:
   - Default
   - TransparentFX
@@ -15,8 +16,8 @@ TagManager:
   - 
   - Water
   - UI
-  - 
-  - 
+  - Platforms
+  - GroundChecker
   - 
   - 
   - 
