@@ -3287,7 +3287,7 @@ GameObject:
   - component: {fileID: 1601221275}
   - component: {fileID: 1601221274}
   - component: {fileID: 1601221273}
-  m_Layer: 6
+  m_Layer: 8
   m_Name: PlatformTilemap
   m_TagString: Platform
   m_Icon: {fileID: 0}
